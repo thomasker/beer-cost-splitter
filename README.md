@@ -1,0 +1,1 @@
+# beer-cost-splitter
